@@ -5,7 +5,7 @@ import { MenuIcon, XIcon } from '@heroicons/react/outline'
 import '../tailwind.css'
 import img from '../Assets/Bic-Logo.png'
 const navigation = [
-  { name: 'Product', href: '#' },
+  { name: 'Pricing', a: "./Pricing.js" },
   { name: 'Features', href: '#' },
   { name: 'Marketplace', href: '#' },
   { name: 'Company', href: '#' },
